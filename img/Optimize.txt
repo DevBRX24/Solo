@@ -1,0 +1,6 @@
+/**
+ For optimizing the images visit www.tinypng.com
+ For large images visit optimizilla.com
+ Use it to decrease the size of an images for fast load and 
+ increase the performance of your website
+*/
